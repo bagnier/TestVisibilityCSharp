@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVisibilityCSharp", "TestVisibilityCSharp\TestVisibilityCSharp.csproj", "{6624F232-AD55-4EEE-8700-8435D5D89492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVisibilityCSharp.Tests", "TestVisibilityCSharp.Tests\TestVisibilityCSharp.Tests.csproj", "{BF6AA1BD-C36E-40A2-A496-CF5ADA58BB5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6624F232-AD55-4EEE-8700-8435D5D89492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6624F232-AD55-4EEE-8700-8435D5D89492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6624F232-AD55-4EEE-8700-8435D5D89492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6624F232-AD55-4EEE-8700-8435D5D89492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6AA1BD-C36E-40A2-A496-CF5ADA58BB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6AA1BD-C36E-40A2-A496-CF5ADA58BB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6AA1BD-C36E-40A2-A496-CF5ADA58BB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6AA1BD-C36E-40A2-A496-CF5ADA58BB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
